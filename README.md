@@ -11,7 +11,7 @@ After Admin/Receptionist confirm an appointment, it will be appeared in Doctorâ€
 #Installation and Run:
 1. Download the zip file from git lab from download option. After downloading unzip the file.
 or clone the project using git command and URL-
-git clone https://cognizant-git.tekstac.com/root/hospital-management-system_adm21jf025_pod2.git
+git clone https://github.com/RK-Rajeev/hospital-management-system.git
 
 2. Select an IDE (Eclipse/VS Code).
 
@@ -59,10 +59,4 @@ git clone https://cognizant-git.tekstac.com/root/hospital-management-system_adm2
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request 
 
-#Include Credits:
-Ananya Chattopadhyay
-Ankita Datta
-Ayan Goswami
-Rajeev Kumar
-Shreya Saha
-Vishal Kumar
+
